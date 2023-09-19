@@ -1,4 +1,4 @@
-
+config.yml
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -21,4 +21,5 @@ go.work
 /.idea
 /logs
 /build
+
 

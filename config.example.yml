@@ -1,0 +1,10 @@
+---
+
+is_debug: true
+listen:
+  type: port
+mongodb:
+  username: db_username
+  password: db_password
+  collection: db_collection
+  uri: db_uri
